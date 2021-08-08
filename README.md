@@ -5,6 +5,10 @@ Cooking soul es mi primer proyecto de escribir un blog sobre temas de cocina.
 
 ### Mis recetas
 
+### Garbanzos a la Susana
+
+![](IMG20210126203122.jpg)
+
 ### Tortilla de papas
 
 **Ingredientes**
