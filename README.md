@@ -23,6 +23,7 @@ Cooking soul es mi primer proyecto de escribir un blog sobre temas de cocina
 1. Se cortan las papas en rodajas finas
 2. blah
 
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
