@@ -1,6 +1,6 @@
 ## Bienvenido a Coooking Soul
 
-[Cooking soul](/) es mi primer proyecto de escribir un blog sobre temas de cocina
+[Cooking soul](https://cooking-lifeboold.github.io/) es mi primer proyecto de escribir un blog sobre temas de cocina
 
 
 ### Mis recetas
