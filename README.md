@@ -1,10 +1,24 @@
 ## Bienvenido a Coooking Soul
 
-You can use the [editor on GitHub](https://github.com/cooking-lifeboold/cooking-lifeboold.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Cooking soul es mi primer proyecto de escribir un blog sobre temas de cocina.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Mis recetas
+
+### Tortilla de papas
+
+**Ingredientes**
+
+* Huevos
+* papas
+* Aceit
+* Sal
+
+**Procedimiento**
+
+1. Se cortan las papas en rodajas finas
+2. blah
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
