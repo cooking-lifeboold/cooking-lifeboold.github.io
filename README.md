@@ -5,7 +5,7 @@ Cooking soul es mi primer proyecto de escribir un blog sobre temas de cocina.
 
 ### Mis recetas
 
-
+* [Garbanzas al estilo de Susana Rodriguez](garbanzas)
 
 ### Tortilla de papas
 
