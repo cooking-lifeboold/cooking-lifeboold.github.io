@@ -7,7 +7,7 @@ Cooking soul es mi primer proyecto de escribir un blog sobre temas de cocina.
 
 ### Garbanzos a la Susana
 
-Mis garbanzos quedan asi:Garbanzos compuestos de pedrosilla.
+Mis garbanzos quedan asi: **Garbanzos** compuestos de *pedrosilla*.
 
 
 ![](IMG20210126203122.jpg)
