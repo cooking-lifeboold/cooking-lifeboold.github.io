@@ -4,7 +4,7 @@
 
 * [Técnicas culinarias](tecnicas)
 * [Matérias primas](Materiasprimas)
-* [Vocabulario](vocabulario)
+* [Vocabulario](Vocabulario)
 
 ### Mis recetas
 
