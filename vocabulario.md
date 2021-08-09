@@ -10,12 +10,12 @@ Aqui trataremos las definiciones y los terminos que utilizaremos normalmente en 
 
 **Agar-agar**: aditivos alimentario que se extrae de ciertas algas rojas. Se tiene la cualidad de actuar c como gelificante, teniendo  la capacidad de aguantar calor.  
 
-Ahumar: Acción de someter un ingrediente previamente sazonado a la acción del humo de maderas autorizadas. En ocasiones pueden mezclarse distintas hierbas aromáticas. Con el ahumado se aumenta la conservación del producto y se consigue un sabor característico. 
+**Ahumar**: Acción de someter un ingrediente previamente sazonado a la acción del humo de maderas autorizadas. En ocasiones pueden mezclarse distintas hierbas aromáticas. Con el ahumado se aumenta la conservación del producto y se consigue un sabor característico. 
 
-Ajada: sofrito compuesto por aceite de oliva, ajos fileteados, picados o machacados, vinagre y pimentón dulce. Se añade a los pescados cuando termina la cocción. 
+**Ajada**: sofrito compuesto por aceite de oliva, ajos fileteados, picados o machacados, vinagre y pimentón dulce. Se añade a los pescados cuando termina la cocción. 
 
-Albardar: Recubrir determinadas piezas que tienen bajo contenido en grasa con una fina lámina de tocino o beicon, con el propósito de que resulten más jugosas y evitar que se resequen o se quemen durante la cocción.  
+**Albardar**: Recubrir determinadas piezas que tienen bajo contenido en grasa con una fina lámina de tocino o beicon, con el propósito de que resulten más jugosas y evitar que se resequen o se quemen durante la cocción.  
 
-Alginato: sal orgánica derivada del hidrato de carbono tipo fibra utilizado como gelificante, espesante y estabilizante. Se usa para realizar esferificaciones. 
+**Alginato**: sal orgánica derivada del hidrato de carbono tipo fibra utilizado como gelificante, espesante y estabilizante. Se usa para realizar esferificaciones. 
 
-Amargo: uno de los sabores fundamentales que podemos detectar. En la industria alimentaria se considera la quinina como el patrón de amargor. La quinina es un potenciador del sabor amargo. 
+**Amargo**: uno de los sabores fundamentales que podemos detectar. En la industria alimentaria se considera la quinina como el patrón de amargor. La quinina es un potenciador del sabor amargo. 
