@@ -18,4 +18,14 @@ Aqui trataremos las definiciones y los terminos que utilizaremos normalmente en 
 
 **Alginato**: sal orgánica derivada del hidrato de carbono tipo fibra utilizado como gelificante, espesante y estabilizante. Se usa para realizar esferificaciones. 
 
-**Amargo**: uno de los sabores fundamentales que podemos detectar. En la industria alimentaria se considera la quinina como el patrón de amargor. La quinina es un potenciador del sabor amargo. 
+**Amargo**: uno de los sabores fundamentales que podemos detectar. En la industria alimentaria se considera la quinina como el patrón de amargor. La quinina es un potenciador del sabor amargo.
+
+**Gastrónomo**: Persona amante y conocedora de todos los aspectos relacionados con la gastronomía, desde la cutura, su historia y evoución, 
+
+**Gatronómada**: Persona interesada en viajar y descubrir a gastronomía de otros países. (termino acuñado por Maurice Edmond Sailand, conocido por Curnonsky o el Príncipe de los gastronomos)
+
+**Crítico gastronómico**: Profesional que expresa su opinión sobre el servicio y/o la oferta de un establecimiento de manera razonada.
+
+**Gourmand**: Persona que encuentra placer en el acto de comer, a veces consumiendo en exceso.
+
+**Gourmet**:Persona aficionada a la buena cocina y que sabe apreciarla, valorando más la calidad que la cantidad. Secentra en los productos exquisitos y tiene un paladar muy sensitivo
