@@ -8,7 +8,7 @@
 
 ### Mis recetas
 
-* [Garbanzas al estilo de Susana Rodriguez](garbanzas)
+
 
 ### Tortilla de papas
 
