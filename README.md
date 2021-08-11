@@ -10,7 +10,7 @@
 
 ### Mis recetas
 
-*.[Fondo de verduras]
+
 
 ### Tortilla de papas
 
