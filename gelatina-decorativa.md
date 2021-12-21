@@ -2,4 +2,4 @@
 title: Gelatina decorativa
 ---
 
-![Gelatina](images/IMG20211220165436.jpg)
+<img src="images/IMG20211220165436.jpg" width="25%">
