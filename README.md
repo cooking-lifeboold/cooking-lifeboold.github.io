@@ -2,10 +2,10 @@
 
 [Cooking soul](https://cooking-lifeboold.github.io/) es mi primer proyecto de escribir un blog sobre temas de cocinay productos culinarios.
 
-* [Técnicas culinarias](tecnicas)
+* [Técnicas culinarias](tecnicas.html)
 * [Matérias primas](Materiasprimas.html)
-* [Vocabulario](vocabulario)
-* [Recetas](recetas)
+* [Vocabulario](vocabulario.html)
+* [Recetas](recetas.html)
 
 
 ### Mis recetas
