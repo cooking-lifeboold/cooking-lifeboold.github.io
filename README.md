@@ -10,6 +10,8 @@
 
 ### Mis recetas
 
+#### Gelatina decorativa:
+
 ![gelatina](images/IMG20211220165436.jpg)
 
 ### Tortilla de papas
