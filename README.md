@@ -10,7 +10,7 @@
 
 ### Mis recetas
 
-![gelatina(images/IMG20211220165436.jpg)
+![gelatina](images/IMG20211220165436.jpg)
 
 ### Tortilla de papas
 
