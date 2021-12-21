@@ -12,7 +12,7 @@
 
 #### Gelatina decorativa:
 
-<img src="images/IMG20211220165436.jpg" width="25%" >
+<img src="images/IMG_20211220_170818.jpg" width="25%" >
 
 Queda espectacular
 
@@ -25,7 +25,7 @@ Queda espectacular
 
 * Huevos
 * papas
-* Aceit
+* Aceite
 * Sal
 
 **Procedimiento**
