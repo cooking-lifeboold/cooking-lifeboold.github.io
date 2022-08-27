@@ -18,7 +18,8 @@ Tomates (opcional)   300G.
 Bouqet Garni ( Puerro, Tomillo, Laurel, romero) 1 de cada.
 Carcasa de pollo      1K.
 
-## Comensales: 20 ##Precio por ración: 0.30 aprox.
+## Comensales: 20 
+##Precio por ración: 0.30 aprox.
 
 ### Elaboración
 1) Cortamos las verduras en mine poix.
